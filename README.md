@@ -61,5 +61,5 @@ MIT
 Contributions are welcome. Please feel free to fork, improve, and make pull requests.
 
 ## Acknowledgments
-- Special thanks to [EreTIk](https://github.com/EreTIk) for the PolicyConfig header.
+- Special thanks to [EreTIk](https://kitere.github.io/) for the PolicyConfig header.
 
